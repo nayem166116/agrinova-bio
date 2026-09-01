@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /loading
+Sitemap: https://agrinovabio.com/sitemap.xml
